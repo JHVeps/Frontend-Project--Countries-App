@@ -1,5 +1,6 @@
 # Frontend project
 
+https://github.com/JHVeps/Frontend-Project--Countries-App/blob/main/pics/frontpage.PNG?raw=true
 
 * Redux
 * Redux-thunk
