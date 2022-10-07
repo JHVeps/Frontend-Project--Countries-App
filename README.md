@@ -33,14 +33,16 @@ https://github.com/JHVeps/Frontend-Project--Countries-App/blob/main/pics/frontpa
 
 2. **Features:**
 
-   1. Display countries in a table
-   2. User can:
-      1. change the theme to different color
-      2. Search a country
-      3. Filter from the countries
-      4. Link to a specific country to read more data (by a link I mean when the user clicks on a specific country row)
-      5. Add country to a cart (no duplication)
-      6. Remove a country from a cart
+At Homepage the user can: 
+- change theme the of the application to light or dark 
+- you can view the information of an individual country by clicking on the country name
+- you can add the country to the cart and each country can only be added once
+- you can search for a specific country from the page
+- and you can sort the countries to alphabetical order
+
+From the Cart page user can: 
+- remove added countries from the cart
+- return back to homepage
 
 <br />
 
